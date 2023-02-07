@@ -1,0 +1,22 @@
+{
+  "tasks": {
+    "dev": "deno run --watch src/main.ts",
+    "start": "deno run src/main.ts"
+  },
+  "importMap": "./import_map.json",
+  "fmt": {
+    "files": {
+      "include": [
+        "src/",
+        "test/"
+      ]
+    },
+    "options": {
+      "useTabs": true,
+      "lineWidth": 120,
+      "singleQuote": true,
+      "proseWrap": "preserve",
+      "semiColons": false
+    }
+  }
+}
