@@ -1,9 +1,6 @@
-# FOLDERS
-.vscode/
+.vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/launch.json
-
-# FILES
 .env*
 !.env.template

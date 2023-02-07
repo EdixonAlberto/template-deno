@@ -1,8 +1,10 @@
 # Template Deno
 
+![deno compatibility](https://shield.deno.dev/deno/1.30)
+
 ![template](./template-deno.png)
 
-Plantilla para crear proyectos con deno 🦕
+Plantilla para crear proyectos con Deno 🦕
 
 ## Inicio
 
@@ -31,4 +33,4 @@ Siéntase libre de agregar codigo para mejorar o corregir el proyecto.
 
 ## Licencia
 
-[NAME](https://github.com/EdixonAlberto/template-deno/blob/main/LICENSE) &copy; Edixon Piña
+[NAME_LICENSE](https://github.com/EdixonAlberto/template-deno/blob/main/LICENSE) &copy; Edixon Piña
